@@ -1,0 +1,9 @@
+/home/vovat/labirintServer/build/Desktop-Debug/CMakeFiles/labirintServer.dir
+/home/vovat/labirintServer/build/Desktop-Debug/CMakeFiles/edit_cache.dir
+/home/vovat/labirintServer/build/Desktop-Debug/CMakeFiles/rebuild_cache.dir
+/home/vovat/labirintServer/build/Desktop-Debug/CMakeFiles/list_install_components.dir
+/home/vovat/labirintServer/build/Desktop-Debug/CMakeFiles/install.dir
+/home/vovat/labirintServer/build/Desktop-Debug/CMakeFiles/install/local.dir
+/home/vovat/labirintServer/build/Desktop-Debug/CMakeFiles/install/strip.dir
+/home/vovat/labirintServer/build/Desktop-Debug/CMakeFiles/labirintServer_autogen_timestamp_deps.dir
+/home/vovat/labirintServer/build/Desktop-Debug/CMakeFiles/labirintServer_autogen.dir
